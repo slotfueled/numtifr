@@ -18,6 +18,6 @@ def trapezoidal(a,b,n):
 x0 = -2
 x1 = 2
 
-n = 10
+n = 100
 
 print("Value of integral is ", "%.4f"%trapezoidal(x0,x1,n))
