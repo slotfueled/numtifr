@@ -1,0 +1,10 @@
+
+1.  C CPU cache
+
+2.  D all of the above
+
+3.  D both A&C
+
+4.  C user interface
+
+5.  C git checkout 'branch_name'
